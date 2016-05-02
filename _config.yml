@@ -1,8 +1,19 @@
-layout_spectrum: 0
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.3148936
 color:
   saturation: 0.4829787
   brandStrength: 0.3411089
-  lightness: 0.2446809
   rhythmicContrast: 0.9387746
   brandColors:
     - '#E0FBFC'
@@ -10,5 +21,6 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-typography_spectrum: 0.3148936
+  lightness: 0.2446809
+layout_spectrum: 0.1654135
 name: MuldiMedia
