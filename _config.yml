@@ -1,0 +1,14 @@
+layout_spectrum: 0
+color:
+  saturation: 0.4829787
+  brandStrength: 0.3411089
+  lightness: 0.2446809
+  rhythmicContrast: 0.9387746
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+typography_spectrum: 0.3148936
+name: MuldiMedia
